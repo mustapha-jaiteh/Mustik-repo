@@ -58,7 +58,7 @@ function App() {
         <footer>
           <div className="attribution"></div>
           <p className="copyright">
-            © 2024 - MusTech Solutions of Mustapha Jaiteh the Junior Developer.
+            © 2024 - MusTech - Mustapha Jaiteh the Junior Developer.
           </p>
         </footer>
         {/*  */}
